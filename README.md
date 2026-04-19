@@ -1,10 +1,10 @@
-here it is "<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20To%20My%20Profile!&fontSize=50&animation=fadeIn&fontAlignY=40&desc=I'm%20Lokesh,%20Backend%20Developer%20%26%20Agentic%20AI%20Enthusiast&descSize=20&descAlignY=60" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20To%20My%20Profile!&fontSize=50&animation=fadeIn&fontAlignY=40&desc=I'm%20Lokesh,%20Backend%20Developer%20and%20Agentic%20AI%20Enthusiast&descSize=20&descAlignY=60" />
 </div>
 
 <p align="center">
   <a href="https://github.com/Lokesh6644">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=50&duration=4000&color=36BCF7&lines=Spring+Boot+Developer;Agentic+AI+Explorer;Always+Learning;Building+Robust+APIs" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=50&duration=4000&color=36BCF7&lines=Spring+Boot+Developer;Agentic+AI+Explorer;Always+Learning;Building+Robust+APIs" />
   </a>
 </p>
 
@@ -21,8 +21,8 @@ here it is "<div align="center">
     <td width="65%" style="border: none;">
       <h2 align="left">🧑‍💻 About Me</h2>
       <ul style="font-size: 16px;">
-        <li>🔧 I build robust <b>backend systems</b> using <b>Spring Boot &amp; Java</b></li>
-        <li>🤖 Currently exploring <b>Agentic AI</b> — autonomous agents, LLM tooling &amp; orchestration</li>
+        <li>🔧 I build robust <b>backend systems</b> using <b>Spring Boot & Java</b></li>
+        <li>🤖 Currently exploring <b>Agentic AI</b> — autonomous agents, LLM tooling & orchestration</li>
         <li>💡 Always learning, always building</li>
         <li>📍 Based in India</li>
         <li>💬 Ask me about <b>Spring Boot, REST APIs, Java, or AI agents</b></li>
@@ -96,7 +96,7 @@ here it is "<div align="center">
 
 <br/>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=%22First,+solve+the+problem.+Then,+write+the+code.%22+–+John+Johnson" alt="Quote" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=%22First,+solve+the+problem.+Then,+write+the+code.%22+-+John+Johnson" alt="Quote" />
 </p>
 
 <div align="center">
