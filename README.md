@@ -21,8 +21,8 @@ here it is "<div align="center">
     <td width="65%" style="border: none;">
       <h2 align="left">🧑‍💻 About Me</h2>
       <ul style="font-size: 16px;">
-        <li>🔧 I build robust <b>backend systems</b> using <b>Spring Boot & Java</b></li>
-        <li>🤖 Currently exploring <b>Agentic AI</b> — autonomous agents, LLM tooling & orchestration</li>
+        <li>🔧 I build robust <b>backend systems</b> using <b>Spring Boot &amp; Java</b></li>
+        <li>🤖 Currently exploring <b>Agentic AI</b> — autonomous agents, LLM tooling &amp; orchestration</li>
         <li>💡 Always learning, always building</li>
         <li>📍 Based in India</li>
         <li>💬 Ask me about <b>Spring Boot, REST APIs, Java, or AI agents</b></li>
